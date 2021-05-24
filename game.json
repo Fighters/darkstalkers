@@ -1,0 +1,75 @@
+{
+	"names": [
+		{
+			"region": "default",
+			"roman": "Darkstalkers: The Night Warriors"
+		},
+		{
+			"region": "japan",
+			"roman": "Vampire: The Night Warriors",
+			"original": "ヴァンパイア ザ ナイト ウォーリアー"
+		}
+	],
+	"also-known-as": [
+		"ds1",
+		"vampire",
+		"vanpaia"
+	],
+	"platforms": [
+		{
+			"name": "Arcade",
+			"regions": [
+				{
+					"name": "Japan",
+					"roman": "Vampire: The Night Warriors",
+					"original": "ヴァンパイア ザ ナイト ウォーリアー",
+					"releaseDate": "07-1994",
+					"developer": "Capcom",
+					"publisher": "Capcom"
+				},
+				{
+					"name": "United States",
+					"roman": "Darkstalkers: The Night Warriors",
+					"releaseDate": "1997",
+					"developer": "Capcom",
+					"publisher": "Capcom"
+				}
+			]
+		},
+		{
+			"name": "PlayStation",
+			"regions": [
+				{
+					"name": "Japan",
+					"roman": "Vampire: The Night Warriors",
+					"original": "ヴァンパイア ザ ナイト ウォーリアー",
+					"releaseDate": "03-22-1996",
+					"developer": "Capcom",
+					"publisher": "Capcom",
+					"coverFront": ""
+				},
+				{
+					"name": "United States",
+					"roman": "Darkstalkers: The Night Warriors",
+					"releaseDate": "03-28-1996",
+					"developer": "Capcom",
+					"publisher": "Capcom",
+					"coverFront": ""
+				},
+				{
+					"name": "Europe",
+					"roman": "Darkstalkers: The Night Warriors",
+					"releaseDate": "11-1996",
+					"developer": "Capcom",
+					"publisher": "Virgin Interactive",
+					"coverFront": ""
+				}
+			]
+		}
+	],
+	"features": [
+		{
+			"name": "Enhanced Specials"
+		}
+	]
+}
